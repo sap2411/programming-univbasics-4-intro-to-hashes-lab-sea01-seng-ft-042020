@@ -4,7 +4,7 @@ p new_hash
 end
 
 def my_hash
-  my_hash = {:key "pair"}
+  my_hash[:key] = "pair"
   p my_hash
 end
 
