@@ -3,8 +3,8 @@ new_hash = {}
 p new_hash
 end
 
-def my_hash
-  # return a valid hash with any key/value pair of your choice
+def my_hash(:key, pair)
+  my_hash = {:key, pair}
 end
 
 def pioneer
