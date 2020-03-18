@@ -4,7 +4,10 @@ p new_hash
 end
 
 def my_hash
-  my_hash[:key] = "pa
+  person = {
+  name: "Sam",
+  age: 31
+}
 end
 
 def pioneer
