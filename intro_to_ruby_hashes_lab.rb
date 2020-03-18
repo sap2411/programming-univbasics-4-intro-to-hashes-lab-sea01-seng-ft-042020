@@ -1,5 +1,6 @@
 def new_hash(hash)
 hash = {}
+p hash
 end
 
 def my_hash
