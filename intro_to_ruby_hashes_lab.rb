@@ -17,7 +17,7 @@ end
 
 def id_generator
   ids = {
-    symbole: 22
+    id: 22
   }
 end
 
