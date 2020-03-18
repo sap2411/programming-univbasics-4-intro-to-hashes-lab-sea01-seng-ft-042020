@@ -3,8 +3,8 @@ new_hash = {}
 p new_hash
 end
 
-def my_hash(:key, pair)
-  my_hash = {:key pair}
+def my_hash
+  my_hash = {:key "pair"}
   p my_hash
 end
 
