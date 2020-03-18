@@ -5,6 +5,7 @@ end
 
 def my_hash(:key, pair)
   my_hash = {:key pair}
+  p my_hash
 end
 
 def pioneer
